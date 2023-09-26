@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.home p {
+    margin-top: 20px;
+    width: 50%;
+    text-align: justify;
+    font-size: 1.3em;
+}

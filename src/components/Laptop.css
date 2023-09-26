@@ -1,0 +1,29 @@
+.laptop-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    width: 60%;
+}
+
+.laptop-container h2 {
+    color: #eee4e4;
+    font-size: 1.5rem;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.laptop-container p {
+    margin: 10px;
+    color: #decece;
+    text-align: center;
+}
+
+.laptop-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 7px;
+}

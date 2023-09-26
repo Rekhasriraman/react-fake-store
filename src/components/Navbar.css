@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #ebe8e8;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+a.active {
+    color: #0c7941;
+}
+
+nav{
+    margin-left: 70%;
+}
