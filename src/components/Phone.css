@@ -6,12 +6,12 @@
     border: 2px solid #ccc;
     padding: 20px;
     margin: 20px;
-    width: 60%;
+    width: 20%;
 }
 
 .phone-container h2 {
     color: #eee4e4;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin: 10px 0px;
     text-align: center;
 }
@@ -23,7 +23,7 @@
 }
 
 .phone-container img {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
     border-radius: 7px;
 }

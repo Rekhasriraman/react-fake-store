@@ -4,11 +4,7 @@ const Home = () => {
     return (
         <div className="home">
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Accusamus repellendus possimus quos illo, voluptas debitis
-                similique molestias hic sint exercitationem. Ipsum voluptate
-                mollitia magnam architecto aperiam facilis quos omnis
-                doloremque.
+                At Fake Store, we are dedicated to providing you with an exceptional shopping experience. Whether you are looking to stock up on fresh groceries or upgrade your tech game with the latest smartphones and laptops, we have got you covered.
             </p>
         </div>
     );

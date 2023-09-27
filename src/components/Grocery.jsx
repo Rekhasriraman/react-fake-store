@@ -11,6 +11,7 @@ const Grocery = ({ grocery }) => {
             </div>
             <p>{grocery.description}</p>
         </div>
+        
     );
 };
 
